@@ -1,0 +1,7 @@
+.scrollable-container {
+    max-height: 400px; /* Ajusta la altura máxima según lo necesites */
+    overflow-y: auto;  /* Habilita el desplazamiento vertical si el contenido es demasiado alto */
+    border: 1px solid #ccc; /* Borde opcional para visualizar el contenedor */
+    padding: 15px; /* Espacio interno del contenedor */
+    margin-bottom: 20px; /* Margen inferior opcional para separación */
+}
